@@ -11,5 +11,5 @@
 
 # Egg Dosa
   * Dosa Batter
-  * Egg
+  * 2 Eggs
   * Onion
