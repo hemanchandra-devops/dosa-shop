@@ -19,3 +19,4 @@
   * Panner
   * Oil
   * Onion
+  * carrot
