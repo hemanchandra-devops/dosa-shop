@@ -8,3 +8,6 @@
   * Dosa Batter
   * Red Chilli
   * Oil
+
+# Egg Dosa
+  * Dosa Batter
