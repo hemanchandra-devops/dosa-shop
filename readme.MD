@@ -16,3 +16,4 @@
 
 # Paneer Dosa
   * Dosa Batter
+  * Panner
