@@ -20,3 +20,4 @@
   * Oil
   * Onion
   * carrot
+  * beetroot
