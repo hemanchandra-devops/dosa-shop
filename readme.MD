@@ -13,3 +13,6 @@
   * Dosa Batter
   * 2 Eggs
   * Onion
+
+# Mashroom Dosa
+  * Dosa Batter
