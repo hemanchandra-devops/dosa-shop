@@ -13,3 +13,8 @@
   * Dosa Batter
   * 2 Eggs
   * Onion
+
+# Ghee Karam
+  * Dosa Batter
+  * Karam
+  * Ghee
