@@ -18,3 +18,4 @@
   * Dosa Batter
   * Mashroom Masala
   * Butter
+  * Ghee
